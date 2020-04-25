@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9F26PNX7LG.com.mall.meiyibao",
+                "paths": [ "*","/","/app"]
+            },
+            {
+                "appID": "9F26PNX7LG.com.meiyibao.mall-test",
+                "paths": [ "*","/","/app"]
+            },
+	    {
+                "appID": "6SRV8XJ69J.com.mall.meiyibao",
+                "paths": [ "*","/","/app"]
+            },
+ 	    {
+                "appID": "6SRV8XJ69J.com.mall.meiyibao",
+                "paths": [ "*","/","/app"]
+            },
+        ]
+    }
+}
